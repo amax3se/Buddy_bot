@@ -1,0 +1,4 @@
+vkbottle
+aiohttp
+openai
+python-dotenv
