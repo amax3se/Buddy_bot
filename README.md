@@ -14,8 +14,8 @@ A simple AI agent bot for VKontakte for role-playing built with Python.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your_username/vk-bot.git
-    cd vk-bot
+    git clone https://github.com/amax3se/Buddy_bot.git
+    cd Buddy_bot
     ```
 2. Install dependencies:
     ``` bash
@@ -27,7 +27,7 @@ A simple AI agent bot for VKontakte for role-playing built with Python.
 
 ## Usage
 ```bash
-python src/bot.py
+python buddy_bot.py
 ```
 
 ## Technologies
