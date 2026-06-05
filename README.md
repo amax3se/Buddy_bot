@@ -2,7 +2,7 @@
 A simple AI agent bot for VKontakte for role-playing built with Python.
 
 ## Features
-- Works with openAI api
+- Works with openRouter api
 - Remembers user settings
 - Stores message history locally (JSON)
 
